@@ -5,7 +5,7 @@ and returns the result of model inference and the status code.
 import requests
 
 # Update this URL to your deployed app URL (e.g., Render)
-API_URL = "https://your-app-name.onrender.com"
+API_URL = "https://scalable-ml-pipeline.onrender.com"
 
 payload = {
     "age": 52,
